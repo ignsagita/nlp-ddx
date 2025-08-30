@@ -31,7 +31,7 @@
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the notebook:
-   jupyter notebook notebooks/final_project.ipynb
+   jupyter notebook notebooks/ddx-final.ipynb
 
 ## Reference:
 [1] Hirosawa T, Harada Y, Tokumasu K, Shiraishi T, Suzuki T, Shimizu T. Comparative Analysis of Diagnostic Performance: Differential Diagnosis Lists by LLaMA3 Versus LLaMA2 for Case Reports. JMIR Form Res. 2024 Nov 19;8:e64844. doi: 10.2196/64844. PMID: 39561356; PMCID: PMC11615545.
